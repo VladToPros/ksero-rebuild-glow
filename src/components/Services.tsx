@@ -1,5 +1,4 @@
-
-import { Check, Printer, ShieldCheck, Settings, Monitor, RefreshCw } from 'lucide-react';
+import { Check, Printer, ShieldCheck, Settings, Monitor, RefreshCw, ChevronRight } from 'lucide-react';
 import { useState } from 'react';
 
 const Services = () => {
